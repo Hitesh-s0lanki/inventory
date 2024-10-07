@@ -1,0 +1,7 @@
+inventory-app-be/node_modules/
+inventory-app-fe/node_modules/
+inventory-app-be/dist/
+inventory-app-fe/dist/
+inventory-app-be/.env
+inventory-app-fe/.env
+inventory-app-fe/.next/
